@@ -1,0 +1,6 @@
+{
+    "sketch": "PineappleSerial.ino",
+    "port": "/dev/cu.usbmodem1421",
+    "board": "arduino:avr:mega",
+    "configuration": "cpu=atmega2560"
+}

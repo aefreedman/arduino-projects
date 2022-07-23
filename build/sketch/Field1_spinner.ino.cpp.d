@@ -1,0 +1,30 @@
+/Users/aefreedman/Documents/Arduino/build/sketch/Field1_spinner.ino.cpp.o: \
+ /Users/aefreedman/Documents/Arduino/build/sketch/Field1_spinner.ino.cpp \
+ /Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h \
+ /Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/binary.h \
+ /Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WCharacter.h \
+ /Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WString.h \
+ /Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/HardwareSerial.h \
+ /Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Stream.h \
+ /Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Print.h \
+ /Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Printable.h \
+ /Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/USBAPI.h \
+ /Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h \
+ /Applications/Arduino.app/Contents/Java/hardware/arduino/avr/variants/standard/pins_arduino.h \
+ /Applications/Arduino.app/Contents/Java/libraries/Firmata/Boards.h \
+ /Applications/Arduino.app/Contents/Java/libraries/Firmata/FirmataConstants.h \
+ /Applications/Arduino.app/Contents/Java/libraries/Firmata/FirmataDefines.h \
+ /Applications/Arduino.app/Contents/Java/libraries/Firmata/FirmataConstants.h \
+ /Applications/Arduino.app/Contents/Java/libraries/Firmata/FirmataMarshaller.h \
+ /Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Stream.h \
+ /Applications/Arduino.app/Contents/Java/libraries/Firmata/FirmataParser.h \
+ /Users/aefreedman/Documents/Arduino/libraries/Encoder/Encoder.h \
+ /Users/aefreedman/Documents/Arduino/libraries/Encoder/utility/direct_pin_read.h \
+ /Users/aefreedman/Documents/Arduino/libraries/Encoder/utility/interrupt_pins.h \
+ /Applications/Arduino.app/Contents/Java/libraries/Firmata/Firmata.h \
+ /Applications/Arduino.app/Contents/Java/libraries/Firmata/Boards.h \
+ /Applications/Arduino.app/Contents/Java/libraries/Firmata/FirmataDefines.h \
+ /Applications/Arduino.app/Contents/Java/libraries/Firmata/FirmataMarshaller.h \
+ /Applications/Arduino.app/Contents/Java/libraries/Firmata/FirmataParser.h \
+ /Users/aefreedman/Documents/Arduino/libraries/Faster_LedControl/src/LedControl.h \
+ /Users/aefreedman/Documents/Arduino/libraries/Faster_LedControl/src/CharTable.h

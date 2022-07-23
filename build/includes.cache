@@ -1,0 +1,97 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/variants/standard"
+  },
+  {
+    "Sourcefile": "/Users/aefreedman/Documents/Arduino/build/sketch/Field1_spinner.ino.cpp",
+    "Include": "Boards.h",
+    "Includepath": "/Applications/Arduino.app/Contents/Java/libraries/Firmata"
+  },
+  {
+    "Sourcefile": "/Users/aefreedman/Documents/Arduino/build/sketch/Field1_spinner.ino.cpp",
+    "Include": "Encoder.h",
+    "Includepath": "/Users/aefreedman/Documents/Arduino/libraries/Encoder"
+  },
+  {
+    "Sourcefile": "/Users/aefreedman/Documents/Arduino/build/sketch/Field1_spinner.ino.cpp",
+    "Include": "LedControl.h",
+    "Includepath": "/Users/aefreedman/Documents/Arduino/libraries/Faster_LedControl/src"
+  },
+  {
+    "Sourcefile": "/Users/aefreedman/Documents/Arduino/build/sketch/Field1_spinner.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Applications/Arduino.app/Contents/Java/libraries/Firmata/Firmata.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Applications/Arduino.app/Contents/Java/libraries/Firmata/FirmataMarshaller.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Applications/Arduino.app/Contents/Java/libraries/Firmata/FirmataParser.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Applications/Arduino.app/Contents/Java/libraries/Firmata/utility/BLEStream.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Applications/Arduino.app/Contents/Java/libraries/Firmata/utility/EthernetClientStream.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Applications/Arduino.app/Contents/Java/libraries/Firmata/utility/SerialFirmata.cpp",
+    "Include": "SoftwareSerial.h",
+    "Includepath": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/SoftwareSerial/src"
+  },
+  {
+    "Sourcefile": "/Applications/Arduino.app/Contents/Java/libraries/Firmata/utility/SerialFirmata.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Applications/Arduino.app/Contents/Java/libraries/Firmata/utility/WiFiStream.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/aefreedman/Documents/Arduino/libraries/Encoder/Encoder.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/aefreedman/Documents/Arduino/libraries/Faster_LedControl/src/LedControl.cpp",
+    "Include": "SPI.h",
+    "Includepath": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/SPI/src"
+  },
+  {
+    "Sourcefile": "/Users/aefreedman/Documents/Arduino/libraries/Faster_LedControl/src/LedControl.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/SoftwareSerial/src/SoftwareSerial.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/SPI/src/SPI.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
